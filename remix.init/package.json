@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/which": "^2.0.1",
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2",
+    "replace-in-file": "^6.3.5",
+    "tsx": "^3.12.2",
+    "which": "^3.0.0"
+  }
+}
